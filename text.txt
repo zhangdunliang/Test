@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 分支测试文件
 新的功能11111
 prfenzhi
 dunliangrebase
+=======
+霟栱毀雼㈧珨旎勲尘喃愳姷鞉龟泟锟姐劚銊编┌鐗︽暜绌拷
+111111111111111111
+>>>>>>> 15cf8b1... Update text.txt
